@@ -1,3 +1,5 @@
+FILEPATH = "todo.txt"
+
 
 def get_todos(filepath=FILEPATH):
     """ Read a text file and return

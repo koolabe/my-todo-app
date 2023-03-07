@@ -1,5 +1,3 @@
-FILEPATH = "../web_app1/todo.txt"
-
 
 def get_todos(filepath=FILEPATH):
     """ Read a text file and return
